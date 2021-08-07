@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aiyubali15-13456@diu.edu.bd**
 
-- ⚡ Fun fact **I'm funny XD!**
+- ⚡ Fun fact **I'm funny xD!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
