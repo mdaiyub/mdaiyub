@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aiyubal13916547" target="blank"><img src="https://img.shields.io/twitter/follow/aiyubal13916547?logo=twitter&style=for-the-badge" alt="aiyubal13916547" /></a> </p>
 
-- 🔭 I’m currently working on [Breast cancer Detection Research Project](https://colab.research.google.com/drive/1H4OaAVxtHFjMUVCuHM0lhuijnEhDALqS?authuser=1)
+- 🔭 I’m currently working on [Research Project](https://www.kaggle.com/)
 
 - 🌱 I’m currently learning **scikit-learn, SciPy, Tensorflow, Pytorch, GridSearchCV**
 
