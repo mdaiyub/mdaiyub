@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aiyubal13916547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiyubal13916547" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aiyub-mohammad-ali-b60173196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiyub-mohammad-ali-b60173196" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-aiyub-ali-b60173196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiyub-mohammad-ali-b60173196" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdaiyub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdaiyub" height="30" width="40" /></a>
 <a href="https://fb.com/md.aiyub.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.aiyub.942" height="30" width="40" /></a>
 <a href="https://instagram.com/md.aiyub.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.aiyub.942" height="30" width="40" /></a>
