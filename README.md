@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiyub.</h1>
-<h3 align="center">An AI Engineer @ HawkEyes</h3>
+<!-- <h3 align="center">An AI Engineer @ HawkEyes</h3> -->
+<h3 align="center">An AI Engineer @ <a href="https://hedigital.tech/" target="_blank">HawkEyes</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaiyub&label=Profile%20views&color=0e75b6&style=flat" alt="mdaiyub" /> </p>
 
